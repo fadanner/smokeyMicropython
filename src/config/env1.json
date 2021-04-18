@@ -1,0 +1,7 @@
+{
+    "WIFINAME" : "FaMe",
+    "WIFIPW" : "1.Pw4F&M",
+    "MQTTSERVER" : "192.168.1.51",
+    "MQTTCLIENTNAME" : "Sensor1",
+    "VERSION" : "1.0.0.0"
+}

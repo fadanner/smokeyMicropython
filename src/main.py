@@ -3,7 +3,7 @@ from smokey import SmokeyController
 
 
 def main():
-    smokey = SmokeyController("config/env1.json")
+    smokey = SmokeyController("config/env1.json","config/env2.json")
     smokey.run()
 
 
