@@ -147,4 +147,4 @@ dmypy.json
 !src/lib
 
 ### Smokey ##
-config/*
+!config/*.json
